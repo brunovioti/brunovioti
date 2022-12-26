@@ -1,5 +1,5 @@
 ### Oi, eu sou o Bruno Vioti!
-Estudo Sistemas para Internet, e estou me especializando em desenvolvimento front-end.
+Sou Técnico em Sistemas para Internet, e estou estudando engenharia da computação.
 ##
 <div align="center">
   <a href="https://github.com/brunovioti">
