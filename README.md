@@ -1,5 +1,5 @@
 ### Oi, eu sou o Bruno Vioti!
-Sou Técnico em Sistemas para Internet, e estou estudando engenharia da computação.
+Sou Técnico em Sistemas para Internet, e estou treinando para melhorar as minhas habilidades e ingressar na área de desenvolvimento.
 ##
 <div align="center">
   <a href="https://github.com/brunovioti">
